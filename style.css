@@ -1,0 +1,59 @@
+h3 {
+    display: inline;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 70px;
+}
+label, input {
+    display:block;
+    font-size: 19px;
+}section{
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    text-align: center;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOl4o7wO_OXMY7VTPyqZx3DESe_8OMfonAA&usqp=CAU);
+}
+input[type="submit"]{
+    display: block;
+    background-color: #ff0000;
+    color: white;
+    margin: auto;
+    width: 200px;
+    padding: 10px;    
+}
+input[type="checkbox"]{
+    display: inline;
+    background-color: #ff0000;
+    color: white;
+    margin: auto;
+    width: 200px;
+    padding: 10px; 
+
+}
+input[type="text"]{
+    display: block;
+    background-color: #000000;
+    color: rgb(255, 251, 0);
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+    
+}
+input[type="number"]{
+    display: block;
+    background-color: #000000;
+    color: rgb(255, 251, 0);
+    margin: auto;
+    width: 200px;
+    padding: 10px;
+    
+}
+
+
